@@ -16,7 +16,6 @@ Pillow
 lxml
 tf-slim
 slim
-Jupyter notebook
 Matplotlib
 Cython
 contextlib2
