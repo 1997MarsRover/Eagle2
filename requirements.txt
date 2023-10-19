@@ -1,7 +1,7 @@
 pytesseract
 pytorch
 pyttsx3 
-tensoflow
+tensorflow
 tarfile
 zipfile
 time
