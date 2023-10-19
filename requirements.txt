@@ -10,9 +10,9 @@ time
 engineio
 matplotlib
 opencv
-Protobuf 3.0.0
+Protobuf
 Python-tk
-Pillow 1.0
+Pillow 
 lxml
 tf-slim
 slim
